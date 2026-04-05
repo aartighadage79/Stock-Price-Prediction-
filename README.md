@@ -1,1 +1,14 @@
 # stock prediction
+1.Open Price-Price at market opening.
+2.High Price-Highest price of the day.
+3.Low Price-Lowest price of the day.
+4.Close Price-Price at market closing.
+5.Volume Traded-Total shares traded
+6.Market Cap-Total market value of company.
+7.P/E Ratio-Shows how much investors are willing to pay.
+8.EPS-Profit earned by company per share.
+9.Dividend Yield-Percentage return given to shareholders.
+10.52 Week High-Highest price in last year.
+11.52 Week Low-Lowest price in last year.
+
+
